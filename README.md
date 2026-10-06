@@ -17,7 +17,7 @@
 ```python
 class MohamedRasik:
     name = "Mohamed Rasik"
-    location = "YOUR_LOCATION"
+    location = "chennai"
     degree = "BCA, Alagappa University"
     role = "Python Full Stack Developer"
 
